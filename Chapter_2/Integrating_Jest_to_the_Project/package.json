@@ -1,0 +1,14 @@
+{
+  "name": "jestsetup",
+  "version": "1.0.0",
+  "description": "Setting up and installing Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Jest"
+  ],
+  "author": "sreejith",
+  "license": "ISC"
+}
